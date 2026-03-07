@@ -1,0 +1,4123 @@
+{
+  "votepurchase/NSFW-GEN-ANIME-v2": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "anime",
+      "NSFW",
+      "UnfilteredAI",
+      "Anime"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "votepurchase/kivotos-xl-2.0": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "anime"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "votepurchase/holodayo-xl-2.1": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "anime"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "votepurchase/ponyDiffusionV6XL": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "votepurchase/AnythingXL_xl": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "anything"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "votepurchase/7thAnimeXLPonyA_v10": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "votepurchase/animagine-xl-3.1": {
+    "model_type": [
+      "SDXL",
+      "Animagine"
+    ],
+    "tags": [
+      "anime"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, black and white, realism, disfigured, low contrast"
+  },
+  "votepurchase/pvcxl-v1-lora": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "lora",
+      "template:sd-lora",
+      "anime",
+      "figure"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "votepurchase/ChilloutMix": {
+    "model_type": [
+      "SD1.5"
+    ],
+    "tags": [
+      "stable-diffusion-diffusers"
+    ],
+    "prompt": "highly detailed, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract]"
+  },
+  "votepurchase/NovelAIRemix": {
+    "model_type": [
+      "SD1.5"
+    ],
+    "tags": [
+      "Anime"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "votepurchase/NSFW-gen-v2": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "UnfilteredAI",
+      "3d",
+      "not-for-all-audiences"
+    ],
+    "prompt": "highly detailed, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], drawing, painting, crayon, sketch, graphite, impressionist, noisy, blurry, soft, deformed, ugly"
+  },
+  "votepurchase/PerfectDeliberate-Anime_v2": {
+    "model_type": [
+      "SD1.5"
+    ],
+    "tags": [
+      "anime",
+      "stable-diffusion-diffusers"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "votepurchase/realpony-xl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "pony"
+    ],
+    "prompt": "score_9, score_8_up, score_7_up, highly detailed, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, drawing, painting, crayon, sketch, graphite, impressionist, noisy, blurry, soft, deformed, ugly"
+  },
+  "votepurchase/artiwaifu-diffusion-1.0": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "anime"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "votepurchase/Starry-XL-v5.2": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "anime"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "votepurchase/Yaki-Dofu-Mix": {
+    "model_type": [
+      "SD1.5"
+    ],
+    "tags": [
+      "anime"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "votepurchase/ebara-pony-v1-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "votepurchase/waiANIMIXPONYXL_v10": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "votepurchase/counterfeitV30_v30": {
+    "model_type": [
+      "SD1.5"
+    ],
+    "tags": [
+      "anime"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "votepurchase/ebara-pony": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "votepurchase/Realistic_Vision_V1.4": {
+    "model_type": [
+      "SD1.5"
+    ],
+    "tags": [],
+    "prompt": "highly detailed, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], drawing, painting, crayon, sketch, graphite, impressionist, noisy, blurry, soft, deformed, ugly"
+  },
+  "votepurchase/pony": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "votepurchase/ponymatureSDXL_ponyeclipse10": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "votepurchase/waiREALMIX_v70": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [],
+    "prompt": "score_9, score_8_up, score_7_up, highly detailed, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, drawing, painting, crayon, sketch, graphite, impressionist, noisy, blurry, soft, deformed, ugly"
+  },
+  "votepurchase/waiREALCN_v10": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [],
+    "prompt": "score_9, score_8_up, score_7_up, highly detailed, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, drawing, painting, crayon, sketch, graphite, impressionist, noisy, blurry, soft, deformed, ugly"
+  },
+  "votepurchase/PVCStyleModelMovable_pony151": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "pony"
+    ],
+    "prompt": "score_9, score_8_up, score_7_up",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends"
+  },
+  "votepurchase/PVCStyleModelMovable_beta27Realistic": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [],
+    "prompt": "highly detailed, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract]"
+  },
+  "votepurchase/PVCStyleModelFantasy_beta12": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [],
+    "prompt": "highly detailed, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract]"
+  },
+  "votepurchase/Realistic_Vision_V2.0": {
+    "model_type": [
+      "SD1.5"
+    ],
+    "tags": [],
+    "prompt": "highly detailed, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], drawing, painting, crayon, sketch, graphite, impressionist, noisy, blurry, soft, deformed, ugly"
+  },
+  "votepurchase/RealVisXL_V4.0": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [],
+    "prompt": "highly detailed, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], drawing, painting, crayon, sketch, graphite, impressionist, noisy, blurry, soft, deformed, ugly"
+  },
+  "votepurchase/juggernautXL_hyper_8step_sfw": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [],
+    "prompt": "highly detailed, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], drawing, painting, crayon, sketch, graphite, impressionist, noisy, blurry, soft, deformed, ugly"
+  },
+  "votepurchase/ponyRealism_v21MainVAE": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "pony"
+    ],
+    "prompt": "score_9, score_8_up, score_7_up, highly detailed, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, drawing, painting, crayon, sketch, graphite, impressionist, noisy, blurry, soft, deformed, ugly"
+  },
+  "John6666/mklan-anime-hentai-nextgen-darkhentai-v1-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony",
+      "2.5D",
+      "semi-realistic"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/wai-ani-nsfw-ponyxl-v6-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/cute-candy-mix-pony-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony",
+      "cute"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/true-anime-style-pony-v2-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony",
+      "manga"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/pony-nai3-zycc-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony",
+      "colorful",
+      "brush",
+      "nai"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/cicadaspony-v1-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony",
+      "semi-realistic",
+      "2.5D"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/4gold-mixl-v111-sdxl": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "anime"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/copycat-bg-v1-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony",
+      "backgrounds"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/lizmix-version-ex-sdxl": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "anime"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/asuma-xl-sdxl-spo-hyper": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony",
+      "SPO",
+      "Hyper-SDXL"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/asuma-xl-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/hotdog-pony-mix-xl-v4-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony",
+      "2.5D"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/ytpony3860xl-v09-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/model-ex-v5-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony",
+      "literally anything"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/ohara-pdxl-v1-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony",
+      "game"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/rae-diffusion-xl-v2-sdxl-spo-hyper": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony",
+      "game",
+      "SPO",
+      "Hyper-SDXL"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/susamix-pony-v02-v1-for-animagine-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Animagine"
+    ],
+    "tags": [
+      "anime"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, black and white, realism, disfigured, low contrast"
+  },
+  "John6666/1style-adjust-of-animaginexl31-v1-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Animagine"
+    ],
+    "tags": [
+      "anime"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, black and white, realism, disfigured, low contrast"
+  },
+  "John6666/rain-pony-xl-rainfall-v2-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony",
+      "2.5D"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/aios-v101foal-v1100foalii-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony",
+      "lineart"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/satan-pony-v2-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony",
+      "styles"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/pickled-pony-mix-v1-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony",
+      "semi-realistic"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/katayama-mix-xl-v1-sdxl": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "anime",
+      "realistic",
+      "digital art"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/megane-xl-v5-sdxl": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "anime",
+      "megane",
+      "glasses"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/flyx3-mix-xl-v1-sdxl": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "anime",
+      "styles"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/authaku-mix-v1-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/cocoa-mix-xl-v4-sdxl-spo": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "anime",
+      "SPO"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/shirataki-mix-xl-v1-sdxl-spo": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "anime",
+      "SPO"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/susamix-pony-v02-v1-sdxl-spo": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony",
+      "SPO"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/susamix-pony-v02-v1-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/wai-ani-hentai-pony-v1-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/sdxl-anime-illustration-v1-sdxl": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "anime"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/featureless-mix-pony-v2-sdxl-spo": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony",
+      "SPO"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/featureless-mix-pony-v2-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/raemu-xl-v4-sdxl-spo": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "anime",
+      "game",
+      "2.5D",
+      "SPO"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/ely-pony-xl-v1-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/agenda-mix-pdxl-v15-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/toketap-v1-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/unreal-tulip-v1-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/hadrian-delice-xl-styled-stylea-v12d-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/bubble-style-xl-v1-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony",
+      "style"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/crystal-clear-slime-nsf-v1-sdxl": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "anime",
+      "game"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/urang-diffusion-an-v1-sdxl": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "anime",
+      "game"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/mala-anime-mix-nsfw-pony-xl-v5new-sdxl-spo": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony",
+      "SPO"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/mala-anime-mix-nsfw-pony-xl-v5new-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/bubble-xl-v1-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/cocoa-mix-xl-v4-sdxl": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "anime"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/wai-c-v3-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony",
+      "semi-realistic"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/atomix-pony-anime-xl-v3-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony",
+      "semi-realistic"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/hadrian-delice-xl-styled-stylea-v11h-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/flower-mix-moon-xl-v1-sdxl": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "anime",
+      "semi-realistic"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/pony-pencil-xl-v2-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/pony-pencil-xl-v2-sdxl-spo": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony",
+      "SPO"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/ytpony3860xl-v1-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/celeste-pony-v2-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/eclipse-xl-v13test-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/ost-ander-mix-v1-sdxl": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "anime"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/sweet-mix-xl-v1-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/xl-merges-xl011-sdxl": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "anime"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/perfect-nai-v1-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/schizo-merges-arti-heart-neta-inception-sdxl": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "anime"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/cocoa-mix-xl-v3-sdxl": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "anime"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/mala-anime-mix-nsfw-pony-xl-v5-sdxl-spo": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony",
+      "SPO"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/mala-anime-mix-nsfw-pony-xl-v5-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/3x3x3mixxl-v2-sdxl-spo": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony",
+      "SPO"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/3x3x3mixxl-v2-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/bnarhb-bright-night-and-ridiculously-huge-breasts-v1-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony",
+      "huge breast",
+      "gigtantic breasts"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/cielx-v1-LCM-sdxl": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "anime",
+      "LCM"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/anime-screenshot-xl-v1-sdxl": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "anime",
+      "game"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/mikoshi-pony-v1-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/flower-mix-cherry-xl-v3-sdxl": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "anime"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/boring-cake-v1-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/schizo-merges-arti-heart-neta-v2-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/hadrian-delice-xl-styled-stylea-v10d-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony",
+      "styled"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/dissonance-v11-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/fpl005-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/bamboo-shoot-mix-v1-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/3d-rendering-style-beta2-sdxl": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "anime",
+      "3DCG"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/wai-doll-cn-v2-sdxl": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "anime",
+      "3DCG"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/asyncs-mix-pony-pony-v1-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/hamef-kawaii-mix-type24normal-warm-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/mala-smooth-v1-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/fluffy-tart-xl-v14-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony",
+      "kemono",
+      "furry",
+      "chibi"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/mala-anime-mix-nsfw-pony-xl-v3-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony",
+      "quality",
+      "realistic",
+      "photorealistic"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/hamef-kawaii-mix-type24light-warm-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/ras-real-anime-screencap-v1-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/anima-pencil-xl-v5-sdxl-spo": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "anime",
+      "SPO"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/anima-pencil-xl-v5-sdxl": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "anime"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/randomizer89-pdxl-merge-v3-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/cocoa-mix-xl-v2-sdxl": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "anime"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/grilled-lamprey-sdxl-v10o4n3-sdxl": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "anime"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/white-unicorn-v2-sdxl-spo": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony",
+      "SPO"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/white-unicorn-v2-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/0002-pony-v31alt-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/rae-diffusion-xl-v2-sdxl-spo": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "anime",
+      "SPO"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/3x3mix-xl-typef-v1-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/horny-fox-v2-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/hoseki-lustrousmix-pony-v1-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/grilled-lamprey-sdxl-v10o1n9752-sdxl": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "anime"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/t-ponynai3-v55-sdxl-spo": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony",
+      "SPO"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/t-ponynai3-v55-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/0002-pony-v3-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/hassaku-xl-hentai-v12-sdxl": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "anime",
+      "Cham22 v2"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/sorkh-pony-v1-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/celeste-pony-v1-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/blue-pencil-xl-v7-sdxl-spo": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "anime",
+      "illustration",
+      "SPO"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/blue-pencil-xl-v7-sdxl": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "anime",
+      "illustration"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/counterfeit-xl-v25-sdxl-spo": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "anime",
+      "SPO"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/blue-pencil-xl-v6-sdxl-spo": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "anime",
+      "illustration",
+      "SPO"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/himawari-mix-xl-v13-sdxl-spo": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "anime",
+      "SPO"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/ioli-pony-mix-v2-sdxl-spo": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony",
+      "SPO"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/chacol-omega-mix-v11a-sdxl-spo": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony",
+      "SPO"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/hassaku-xl-hentai-v13-better-eyes-sdxl-spo": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony",
+      "SPO"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/ebara-pony-v1-sdxl-spo": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony",
+      "SPO"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/sympony-v2-fuga-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/cute-core-v1-sdxl": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "anime"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/animagine-xl-v31-sdxl-spo": {
+    "model_type": [
+      "SDXL",
+      "Animagine"
+    ],
+    "tags": [
+      "anime",
+      "SPO"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, black and white, realism, disfigured, low contrast"
+  },
+  "John6666/holodayo-xl-v21-sdxl-spo": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "anime",
+      "SPO"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/kivotos-xl-v20-sdxl-spo": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "anime",
+      "SPO"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/3x3x3mixxl-v1-sdxl-spo": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony",
+      "SPO"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/pvc-style-model-movable-pony-151-sdxl-spo": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony",
+      "figure",
+      "SPO"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/t-ponynai3-v51wo-sdxl-spo": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony",
+      "SPO"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/anima-pencil-xl-v4-sdxl-spo": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "anime",
+      "SPO"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/pony-diffusion-v6-xl-sdxl-spo": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony",
+      "SPO"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/7th-anime-xl-pony-a-v1-sdxl-spo": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony",
+      "SPO"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/cocoa-mix-xl-v1-sdxl": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "anime"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/niji-style-xl-v21-sdxl": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "anime",
+      "illustration"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/jupiter-2dnpony-v1-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/animix-v9-xl-animetvmix-2nd-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony",
+      "anime screencap"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/pegasusxx-v40-twilightsky-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/ebara-pony-v21-sdxl-spo": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony",
+      "SPO",
+      "merged"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/ebara-pony-v21-sdxl-spo-lora": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony",
+      "lora",
+      "SPO"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/kivotos-xl-v20-spo-lora": {
+    "model_type": [],
+    "tags": [
+      "lora",
+      "anime",
+      "SPO"
+    ],
+    "prompt": "",
+    "negative_prompt": ""
+  },
+  "John6666/pegana-merge-v2-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/getsujitsu-v1-sdxl": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "anime"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/flower-mix-cherry-xl-v2-sdxl": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "anime"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/tsuki-v2-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/bunny-mint-v3-ns-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/xl-merges-xl010-sdxl": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "anime"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/bunny-mint-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/ebara-mfcg-pony-mix-v12-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/wai-cute-v3-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/equuleus-beta-pony-mix-v1-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/3x3mix-xl-typea-v2-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/hassaku-xl-hentai-v13-better-eyes-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/ioli-pony-mix-v2-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/sagittarius-beta-pony-mix-v1-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/hamef-kawaii-mix-type2light-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/aniease-v24-sdxl": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "anime"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/sol-pony-v2-alt-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/eva-claus-mix-pony-xl-v21-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/0003-pony-delta-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/rae-diffusion-xl-v1-sdxl": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "anime"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/persona-style-checkpoint-pony-xl-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony",
+      "game",
+      "persona"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/sympony-v1-prelude-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/himawari-mix-xl-v13-sdxl": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "anime"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/3x3mix-xl-typee-v1-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/r-anime-220k-v1-sdxl": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "anime"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/comradeship-xl-v9a-spo-dpo-flash-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/hassaku-xl-hentai-v13-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/knk-soft-shading-v1-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/astolfo-mix-xl-tgmd-sdxl": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "anime"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/nova-anime-xl-pony-v2-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/hadrian-delice-xl-v20l-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/confusion-xl-v3-sdxl": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "anime"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/luminastra-xl-v2-sdxl": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "anime"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/featureless-25d-mix-pony-v1-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony",
+      "2.5D",
+      "realistic"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/ebara-mfcg-pony-mix-v11-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/nero-mix-v1-sdxl": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "anime"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/ebara-pony-v21-sdxl-fp32": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/ebara-pony-v21-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/mala-anime-mix-nsfw-pony-xl-v4-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/3x3mix-xl-typed-v1-sdxl": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "anime"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/kosa-v2-sdxl": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "anime"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/pegana-merge-v1-sdxl": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "anime"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/kohaku-xl-epsilon-rev2-sdxl": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "anime"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/99mix-v1-sdxl": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "anime"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/hentai-cinematic-pony-v1-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/pegasusxx-v383-sdxl": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "anime"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/pony-pencil-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/sino-station-xl-manhua-v8-sdxl": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "anime"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/wai-ani-nsfw-ponyxl-v5-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/boleromix-pony-v14-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/pegasusxx-v35-sdxl": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "anime"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/eclipse-xl-v1-sdxl": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "anime"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/kome-anime-coloring-chibi-style-v1-sdxl": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "anime"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/base-anime-style-pony-v3-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/t-ponynai3-v51-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/copycat-v2-sdxl": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "anime"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/asyncs-mix-xl-v31-sdxl": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "anime"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/adamah-mix-xl-v15-sdxl": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "anime"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/ponymagine-v91-gamma-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/super-robot-diffusion-rise-v1-sdxl": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "anime",
+      "robot",
+      "mecha"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/animix-v9-xl-sdxl": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "anime"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/pthno2-v1-sdxl": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "anime"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/caulkinum-animeline-gd-sdxl": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "anime"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/caulkinum-animeline-gep-sdxl": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "anime"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/sino-station-xl-ponyart-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/eva-claus-mix-pony-xl-v1-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/wai-cute-v2-sdxl": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "anime"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/real-pony-real-anime-v4-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/osorubeshi-xl-nsfw-hyper-v1-sdxl": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "anime"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/comradeship-xl-v9-sdxl": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "anime"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/heart-of-apple-xl-v3-sdxl": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "anime"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/tri-fusion-v1e-sdxl": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "anime"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/himawari-mix-xl-v6-sdxl": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "anime"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/nsfw-anime-xl-v1-sdxl": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "anime"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/aniease-v23-sdxl": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "anime"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/any-orange-mix-xl-v1-sdxl": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "anime"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/white-unicorn-another-sdxl": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "anime"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/pony-pencil-xl-v102-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/anime-illust-diffusion-v8-sdxl": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "anime"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/neta-art-xl-v1dpo-sdxl": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "anime"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/raemu-xl-v35l-sdxl": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "anime"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/aing-diffusion-xl-v13-sdxl": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "anime"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/prefect-pony-xl-v1-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/omega-pony-anime-style-v2-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/stuffy-mix-v1-sdxl": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "anime"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/chacol-omega-mix-v11a-sdxl": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "anime"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/epona-mix-v3-sdxl": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "anime"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/manmaru_mix_pony-v1-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/featureless-mix-pony-v1-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/baxl-v3-sdxl": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "anime"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/cute-core-v3-sdxl": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "anime"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/yamers-anime-sa-sdxl": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "anime"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/3x3x3mixxl-v1-sdxl": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "anime"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/momoiro-pony-v14-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/hanamomo-pony-v14-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/anime-bulldozer-v2-sdxl": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "anime"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/deep-dark-hentai-mix-v60-sdxl": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "anime"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/ebara-pony-v1-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "anime",
+      "pony"
+    ],
+    "prompt": "source_anime, score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/anima-pencil-sdxl": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "anime"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "John6666/titania-mix-realistic-pony-gbv50-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "photorealistic",
+      "realistic",
+      "pony",
+      "cosplay",
+      "boobs"
+    ],
+    "prompt": "score_9, score_8_up, score_7_up, highly detailed, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, drawing, painting, crayon, sketch, graphite, impressionist, noisy, blurry, soft, deformed, ugly"
+  },
+  "John6666/speciosa-v12-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "photorealistic",
+      "realistic",
+      "pony"
+    ],
+    "prompt": "score_9, score_8_up, score_7_up, highly detailed, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, drawing, painting, crayon, sketch, graphite, impressionist, noisy, blurry, soft, deformed, ugly"
+  },
+  "John6666/3010nc-xx-mixpony-v17-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "photorealistic",
+      "realistic",
+      "pony"
+    ],
+    "prompt": "score_9, score_8_up, score_7_up, highly detailed, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, drawing, painting, crayon, sketch, graphite, impressionist, noisy, blurry, soft, deformed, ugly"
+  },
+  "John6666/aimz-dream-real-pony-mix-v2-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "photorealistic",
+      "realistic",
+      "pony"
+    ],
+    "prompt": "score_9, score_8_up, score_7_up, highly detailed, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, drawing, painting, crayon, sketch, graphite, impressionist, noisy, blurry, soft, deformed, ugly"
+  },
+  "John6666/osorubeshi-pony-real-v6c-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "photorealistic",
+      "realistic",
+      "pony"
+    ],
+    "prompt": "score_9, score_8_up, score_7_up, highly detailed, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, drawing, painting, crayon, sketch, graphite, impressionist, noisy, blurry, soft, deformed, ugly"
+  },
+  "John6666/juggernaut-reborn-sd15": {
+    "model_type": [
+      "SD1.5"
+    ],
+    "tags": [
+      "photorealistic",
+      "realistic",
+      "SD1.5",
+      "sfw"
+    ],
+    "prompt": "highly detailed, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], drawing, painting, crayon, sketch, graphite, impressionist, noisy, blurry, soft, deformed, ugly"
+  },
+  "John6666/realistic-vision-v60-b1-sd15": {
+    "model_type": [
+      "SD1.5"
+    ],
+    "tags": [
+      "photorealistic",
+      "realistic",
+      "SD1.5",
+      "sfw"
+    ],
+    "prompt": "highly detailed, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], drawing, painting, crayon, sketch, graphite, impressionist, noisy, blurry, soft, deformed, ugly"
+  },
+  "John6666/forreal-xl-v5-sdxl": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "art",
+      "realistic",
+      "sfw"
+    ],
+    "prompt": "highly detailed, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract]"
+  },
+  "John6666/real-vis-xl-v40-sdxl": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "photorealistic",
+      "realistic"
+    ],
+    "prompt": "highly detailed, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], drawing, painting, crayon, sketch, graphite, impressionist, noisy, blurry, soft, deformed, ugly"
+  },
+  "John6666/iniverse-mix-xl-sfwnsfw-pony-beta-v10-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "photorealistic",
+      "realistic",
+      "pony"
+    ],
+    "prompt": "score_9, score_8_up, score_7_up, highly detailed, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, drawing, painting, crayon, sketch, graphite, impressionist, noisy, blurry, soft, deformed, ugly"
+  },
+  "John6666/duchaiten-pony-real-v1-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "photorealistic",
+      "realistic",
+      "pony",
+      "game character"
+    ],
+    "prompt": "score_9, score_8_up, score_7_up, highly detailed, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, drawing, painting, crayon, sketch, graphite, impressionist, noisy, blurry, soft, deformed, ugly"
+  },
+  "John6666/fennfoto-pony-v2-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "photorealistic",
+      "realistic",
+      "pony"
+    ],
+    "prompt": "score_9, score_8_up, score_7_up, highly detailed, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, drawing, painting, crayon, sketch, graphite, impressionist, noisy, blurry, soft, deformed, ugly"
+  },
+  "John6666/titania-mix-realistic-pony-gbv40-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "photorealistic",
+      "realistic",
+      "pony",
+      "cosplay",
+      "boobs"
+    ],
+    "prompt": "score_9, score_8_up, score_7_up, highly detailed, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, drawing, painting, crayon, sketch, graphite, impressionist, noisy, blurry, soft, deformed, ugly"
+  },
+  "John6666/3010nc-xx-mixpony-v16-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "photorealistic",
+      "realistic",
+      "pony"
+    ],
+    "prompt": "score_9, score_8_up, score_7_up, highly detailed, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, drawing, painting, crayon, sketch, graphite, impressionist, noisy, blurry, soft, deformed, ugly"
+  },
+  "John6666/real-mix-pony-v3-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "photorealistic",
+      "realistic",
+      "pony"
+    ],
+    "prompt": "score_9, score_8_up, score_7_up, highly detailed, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, drawing, painting, crayon, sketch, graphite, impressionist, noisy, blurry, soft, deformed, ugly"
+  },
+  "John6666/3010nc-xx-mixpony-v15-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "photorealistic",
+      "realistic",
+      "pony"
+    ],
+    "prompt": "score_9, score_8_up, score_7_up, highly detailed, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, drawing, painting, crayon, sketch, graphite, impressionist, noisy, blurry, soft, deformed, ugly"
+  },
+  "John6666/local_gokaygokay_Florence-2-SD3-Captioner_Tagger": {
+    "model_type": [],
+    "tags": [],
+    "prompt": "",
+    "negative_prompt": ""
+  },
+  "John6666/hpony-realism-25d-v20real-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "photorealistic",
+      "realistic",
+      "pony"
+    ],
+    "prompt": "score_9, score_8_up, score_7_up, highly detailed, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, drawing, painting, crayon, sketch, graphite, impressionist, noisy, blurry, soft, deformed, ugly"
+  },
+  "John6666/iniverse-mix-xl-sfwnsfw-guofen-v15-sdxl": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "photorealistic",
+      "realistic"
+    ],
+    "prompt": "highly detailed, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], drawing, painting, crayon, sketch, graphite, impressionist, noisy, blurry, soft, deformed, ugly"
+  },
+  "John6666/titania-mix-realistic-pony-gbv30-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "photorealistic",
+      "realistic",
+      "pony",
+      "cosplay",
+      "boobs"
+    ],
+    "prompt": "score_9, score_8_up, score_7_up, highly detailed, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, drawing, painting, crayon, sketch, graphite, impressionist, noisy, blurry, soft, deformed, ugly"
+  },
+  "John6666/wai-simpleuse-for-real-pony-v1-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "photorealistic",
+      "realistic",
+      "pony"
+    ],
+    "prompt": "score_9, score_8_up, score_7_up, highly detailed, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, drawing, painting, crayon, sketch, graphite, impressionist, noisy, blurry, soft, deformed, ugly"
+  },
+  "John6666/digital-af-xlp-v1-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "photorealistic",
+      "realistic",
+      "pony"
+    ],
+    "prompt": "score_9, score_8_up, score_7_up, highly detailed, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, drawing, painting, crayon, sketch, graphite, impressionist, noisy, blurry, soft, deformed, ugly"
+  },
+  "John6666/wai-real-mix-v8-sdxl-spo": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "photorealistic",
+      "realistic",
+      "pony",
+      "SPO"
+    ],
+    "prompt": "score_9, score_8_up, score_7_up, highly detailed, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, drawing, painting, crayon, sketch, graphite, impressionist, noisy, blurry, soft, deformed, ugly"
+  },
+  "John6666/wai-real-mix-v8-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "photorealistic",
+      "realistic",
+      "pony",
+      "SPO"
+    ],
+    "prompt": "score_9, score_8_up, score_7_up, highly detailed, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, drawing, painting, crayon, sketch, graphite, impressionist, noisy, blurry, soft, deformed, ugly"
+  },
+  "John6666/real-mix-pony-v2-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "photorealistic",
+      "realistic",
+      "pony"
+    ],
+    "prompt": "score_9, score_8_up, score_7_up, highly detailed, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, drawing, painting, crayon, sketch, graphite, impressionist, noisy, blurry, soft, deformed, ugly"
+  },
+  "John6666/mklan-realistic-pony-nextgen-ponyv1-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "photorealistic",
+      "realistic",
+      "pony"
+    ],
+    "prompt": "score_9, score_8_up, score_7_up, highly detailed, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, drawing, painting, crayon, sketch, graphite, impressionist, noisy, blurry, soft, deformed, ugly"
+  },
+  "John6666/firexxx-realistic-nsfw-v1-sdxl": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "photorealistic",
+      "realistic"
+    ],
+    "prompt": "highly detailed, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], drawing, painting, crayon, sketch, graphite, impressionist, noisy, blurry, soft, deformed, ugly"
+  },
+  "John6666/titania-mix-realistic-pony-gbv20-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "photorealistic",
+      "realistic",
+      "pony",
+      "cosplay",
+      "boobs"
+    ],
+    "prompt": "score_9, score_8_up, score_7_up, highly detailed, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, drawing, painting, crayon, sketch, graphite, impressionist, noisy, blurry, soft, deformed, ugly"
+  },
+  "John6666/titania-mix-realistic-pony-gbv10-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "photorealistic",
+      "realistic",
+      "pony",
+      "cosplay",
+      "boobs"
+    ],
+    "prompt": "score_9, score_8_up, score_7_up, highly detailed, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, drawing, painting, crayon, sketch, graphite, impressionist, noisy, blurry, soft, deformed, ugly"
+  },
+  "John6666/gokaygokay-Florence-2-SD3-Captioner-8bit": {
+    "model_type": [],
+    "tags": [],
+    "prompt": "",
+    "negative_prompt": ""
+  },
+  "John6666/jib-mix-pony-realistic-v2-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "photorealistic",
+      "realistic",
+      "pony"
+    ],
+    "prompt": "score_9, score_8_up, score_7_up, highly detailed, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, drawing, painting, crayon, sketch, graphite, impressionist, noisy, blurry, soft, deformed, ugly"
+  },
+  "John6666/duchaiten-pony-real-beta8-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "photorealistic",
+      "realistic",
+      "pony"
+    ],
+    "prompt": "score_9, score_8_up, score_7_up, highly detailed, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, drawing, painting, crayon, sketch, graphite, impressionist, noisy, blurry, soft, deformed, ugly"
+  },
+  "John6666/wai-real-mix-v7-sdxl-spo": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "photorealistic",
+      "realistic",
+      "pony",
+      "SPO"
+    ],
+    "prompt": "score_9, score_8_up, score_7_up, highly detailed, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, drawing, painting, crayon, sketch, graphite, impressionist, noisy, blurry, soft, deformed, ugly"
+  },
+  "John6666/wai-real-cn-v6-sdxl-spo": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "photorealistic",
+      "realistic",
+      "pony",
+      "SPO"
+    ],
+    "prompt": "score_9, score_8_up, score_7_up, highly detailed, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, drawing, painting, crayon, sketch, graphite, impressionist, noisy, blurry, soft, deformed, ugly"
+  },
+  "John6666/swam-pony-xl-v1-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "photorealistic",
+      "realistic",
+      "pony"
+    ],
+    "prompt": "score_9, score_8_up, score_7_up, highly detailed, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, drawing, painting, crayon, sketch, graphite, impressionist, noisy, blurry, soft, deformed, ugly"
+  },
+  "John6666/maple-mix-pony-v1-sdxl-spo-lora": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "photorealistic",
+      "realistic",
+      "pony",
+      "lora",
+      "SPO"
+    ],
+    "prompt": "score_9, score_8_up, score_7_up, highly detailed, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, drawing, painting, crayon, sketch, graphite, impressionist, noisy, blurry, soft, deformed, ugly"
+  },
+  "John6666/pinkiepie-pony-mix-v30beta-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "photorealistic",
+      "realistic",
+      "pony",
+      "2.5D"
+    ],
+    "prompt": "score_9, score_8_up, score_7_up, highly detailed, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, drawing, painting, crayon, sketch, graphite, impressionist, noisy, blurry, soft, deformed, ugly"
+  },
+  "John6666/jac-nsfw-v2f-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "photorealistic",
+      "realistic",
+      "pony"
+    ],
+    "prompt": "score_9, score_8_up, score_7_up, highly detailed, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, drawing, painting, crayon, sketch, graphite, impressionist, noisy, blurry, soft, deformed, ugly"
+  },
+  "John6666/lyuyang-mix-vp-v198-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "photorealistic",
+      "realistic",
+      "pony"
+    ],
+    "prompt": "score_9, score_8_up, score_7_up, highly detailed, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, drawing, painting, crayon, sketch, graphite, impressionist, noisy, blurry, soft, deformed, ugly"
+  },
+  "John6666/wai-real-cn-v6-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "photorealistic",
+      "realistic",
+      "pony"
+    ],
+    "prompt": "score_9, score_8_up, score_7_up, highly detailed, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, drawing, painting, crayon, sketch, graphite, impressionist, noisy, blurry, soft, deformed, ugly"
+  },
+  "John6666/pony-realism-v21main-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "photorealistic",
+      "realistic",
+      "pony"
+    ],
+    "prompt": "score_9, score_8_up, score_7_up, highly detailed, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, drawing, painting, crayon, sketch, graphite, impressionist, noisy, blurry, soft, deformed, ugly"
+  },
+  "John6666/llama-tagger-HF-GPTQ-4bits": {
+    "model_type": [],
+    "tags": [],
+    "prompt": "",
+    "negative_prompt": ""
+  },
+  "John6666/maple-mix-pony-v1-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "photorealistic",
+      "realistic",
+      "pony"
+    ],
+    "prompt": "score_9, score_8_up, score_7_up, highly detailed, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, drawing, painting, crayon, sketch, graphite, impressionist, noisy, blurry, soft, deformed, ugly"
+  },
+  "John6666/jac-nsfw-v1f-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "photorealistic",
+      "realistic",
+      "pony"
+    ],
+    "prompt": "score_9, score_8_up, score_7_up, highly detailed, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, drawing, painting, crayon, sketch, graphite, impressionist, noisy, blurry, soft, deformed, ugly"
+  },
+  "John6666/duchaiten-pony-real-beta4-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "photorealistic",
+      "realistic",
+      "pony"
+    ],
+    "prompt": "score_9, score_8_up, score_7_up, highly detailed, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, drawing, painting, crayon, sketch, graphite, impressionist, noisy, blurry, soft, deformed, ugly"
+  },
+  "John6666/wai-real-cn-v5-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "photorealistic",
+      "realistic",
+      "pony"
+    ],
+    "prompt": "score_9, score_8_up, score_7_up, highly detailed, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, drawing, painting, crayon, sketch, graphite, impressionist, noisy, blurry, soft, deformed, ugly"
+  },
+  "John6666/wai-real-cn-v4-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "photorealistic",
+      "realistic",
+      "pony"
+    ],
+    "prompt": "score_9, score_8_up, score_7_up, highly detailed, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, drawing, painting, crayon, sketch, graphite, impressionist, noisy, blurry, soft, deformed, ugly"
+  },
+  "John6666/sexoholic-real-pony-nsfw-v2-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "photorealistic",
+      "realistic",
+      "pony"
+    ],
+    "prompt": "score_9, score_8_up, score_7_up, highly detailed, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, drawing, painting, crayon, sketch, graphite, impressionist, noisy, blurry, soft, deformed, ugly"
+  },
+  "John6666/photo-realistic-pony-v5-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "photorealistic",
+      "realistic",
+      "pony"
+    ],
+    "prompt": "score_9, score_8_up, score_7_up, highly detailed, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, drawing, painting, crayon, sketch, graphite, impressionist, noisy, blurry, soft, deformed, ugly"
+  },
+  "John6666/mist-xl-hyper-character-style-model-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "photorealistic",
+      "realistic",
+      "pony"
+    ],
+    "prompt": "score_9, score_8_up, score_7_up, highly detailed, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, drawing, painting, crayon, sketch, graphite, impressionist, noisy, blurry, soft, deformed, ugly"
+  },
+  "John6666/duchaiten-pony-real-alpha7-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "photorealistic",
+      "realistic",
+      "pony"
+    ],
+    "prompt": "score_9, score_8_up, score_7_up, highly detailed, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, drawing, painting, crayon, sketch, graphite, impressionist, noisy, blurry, soft, deformed, ugly"
+  },
+  "John6666/9527-detail-realistic-xl-v55mix-sdxl": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "photorealistic",
+      "realistic"
+    ],
+    "prompt": "highly detailed, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], drawing, painting, crayon, sketch, graphite, impressionist, noisy, blurry, soft, deformed, ugly"
+  },
+  "John6666/runbullxl-v8-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "photorealistic",
+      "realistic",
+      "pony"
+    ],
+    "prompt": "score_9, score_8_up, score_7_up, highly detailed, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends, drawing, painting, crayon, sketch, graphite, impressionist, noisy, blurry, soft, deformed, ugly"
+  },
+  "John6666/yaminabe-pony-v6-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "pony"
+    ],
+    "prompt": "score_9, score_8_up, score_7_up",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends"
+  },
+  "John6666/deng-pvc-xl-mix2-v1-sdxl": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "figure"
+    ],
+    "prompt": "highly detailed, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract]"
+  },
+  "John6666/better-than-hentai-xxxl-unreal-pony-mk2-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "pony"
+    ],
+    "prompt": "score_9, score_8_up, score_7_up",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends"
+  },
+  "John6666/schedulars_test": {
+    "model_type": [],
+    "tags": [],
+    "prompt": "",
+    "negative_prompt": ""
+  },
+  "John6666/real-mix-pony-v01-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "pony"
+    ],
+    "prompt": "score_9, score_8_up, score_7_up",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends"
+  },
+  "John6666/duchaiten-pony-real-alpha5-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "pony"
+    ],
+    "prompt": "score_9, score_8_up, score_7_up",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends"
+  },
+  "John6666/osorubeshi-pony-real-x-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "pony"
+    ],
+    "prompt": "score_9, score_8_up, score_7_up",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends"
+  },
+  "John6666/cosmix-v2-sdxl": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [],
+    "prompt": "highly detailed, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract]"
+  },
+  "John6666/caulkinum-realline-sj-sdxl": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [],
+    "prompt": "highly detailed, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract]"
+  },
+  "John6666/juggernaut-xl-rundiffusion-hyper-sdxl": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [],
+    "prompt": "highly detailed, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract]"
+  },
+  "John6666/after-real-xl-beta2-sdxl": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [],
+    "prompt": "highly detailed, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract]"
+  },
+  "John6666/cherry-picker-xl-v3-sdxl": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [],
+    "prompt": "highly detailed, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract]"
+  },
+  "John6666/fuduki-mix-v2-sdxl": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [],
+    "prompt": "highly detailed, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract]"
+  },
+  "John6666/real-pony-cutejp-v3-sdxl": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "pony"
+    ],
+    "prompt": "score_9, score_8_up, score_7_up",
+    "negative_prompt": "source_pony, source_furry, source_cartoon, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, black and white, the simpsons, overwatch, apex legends"
+  },
+  "John6666/rumblexl-v13-sdxl": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [],
+    "prompt": "highly detailed, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract]"
+  },
+  "stabilityai/stable-diffusion-xl-base-1.0": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [],
+    "prompt": "highly detailed, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract]"
+  },
+  "cagliostrolab/animagine-xl-3.1": {
+    "model_type": [
+      "SDXL",
+      "Animagine"
+    ],
+    "tags": [
+      "anime"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, black and white, realism, disfigured, low contrast"
+  },
+  "misri/epicrealismXL_v7FinalDestination": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [],
+    "prompt": "highly detailed, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract]"
+  },
+  "misri/juggernautXL_juggernautX": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [],
+    "prompt": "highly detailed, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract]"
+  },
+  "misri/zavychromaxl_v80": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [],
+    "prompt": "highly detailed, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract]"
+  },
+  "SG161222/RealVisXL_V4.0": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [],
+    "prompt": "highly detailed, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract]"
+  },
+  "misri/newrealityxlAllInOne_Newreality40": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [],
+    "prompt": "highly detailed, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract]"
+  },
+  "eienmojiki/Anything-XL": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "merge",
+      "StableDiffusionXL",
+      "StableDiffusionXLPipeline",
+      "Anime"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "eienmojiki/Starry-XL-v5.2": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "anime"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "gsdf/CounterfeitXL": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "anime"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "kitty7779/ponyDiffusionV6XL": {
+    "model_type": [
+      "SDXL",
+      "Pony"
+    ],
+    "tags": [
+      "pony"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "yodayo-ai/kivotos-xl-2.0": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "anime"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "yodayo-ai/holodayo-xl-2.1": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "anime"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "digiplay/majicMIX_sombre_v2": {
+    "model_type": [
+      "SD1.5"
+    ],
+    "tags": [
+      "stable-diffusion-diffusers"
+    ],
+    "prompt": "highly detailed, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract]"
+  },
+  "digiplay/majicMIX_realistic_v6": {
+    "model_type": [
+      "SD1.5"
+    ],
+    "tags": [
+      "stable-diffusion-diffusers"
+    ],
+    "prompt": "highly detailed, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract]"
+  },
+  "digiplay/majicMIX_realistic_v7": {
+    "model_type": [
+      "SD1.5"
+    ],
+    "tags": [
+      "stable-diffusion-diffusers"
+    ],
+    "prompt": "highly detailed, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract]"
+  },
+  "digiplay/DreamShaper_8": {
+    "model_type": [
+      "SD1.5"
+    ],
+    "tags": [
+      "stable-diffusion-diffusers"
+    ],
+    "prompt": "highly detailed, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract]"
+  },
+  "digiplay/BeautifulArt_v1": {
+    "model_type": [
+      "SD1.5"
+    ],
+    "tags": [
+      "stable-diffusion-diffusers"
+    ],
+    "prompt": "highly detailed, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract]"
+  },
+  "digiplay/DarkSushi2.5D_v1": {
+    "model_type": [
+      "SD1.5"
+    ],
+    "tags": [
+      "stable-diffusion-diffusers"
+    ],
+    "prompt": "highly detailed, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract]"
+  },
+  "digiplay/darkphoenix3D_v1.1": {
+    "model_type": [
+      "SD1.5"
+    ],
+    "tags": [
+      "stable-diffusion-diffusers"
+    ],
+    "prompt": "highly detailed, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract]"
+  },
+  "digiplay/BeenYouLiteL11_diffusers": {
+    "model_type": [
+      "SD1.5"
+    ],
+    "tags": [
+      "stable-diffusion-diffusers"
+    ],
+    "prompt": "highly detailed, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract]"
+  },
+  "rubbrband/revAnimated_v2Rebirth": {
+    "model_type": [],
+    "tags": [],
+    "prompt": "",
+    "negative_prompt": ""
+  },
+  "youknownothing/cyberrealistic_v50": {
+    "model_type": [
+      "SD1.5"
+    ],
+    "tags": [],
+    "prompt": "highly detailed, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract]"
+  },
+  "Meina/MeinaMix_V11": {
+    "model_type": [
+      "SD1.5"
+    ],
+    "tags": [
+      "anime",
+      "art",
+      "stable diffusion"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "Meina/MeinaUnreal_V5": {
+    "model_type": [
+      "SD1.5"
+    ],
+    "tags": [],
+    "prompt": "highly detailed, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract]"
+  },
+  "Meina/MeinaPastel_V7": {
+    "model_type": [
+      "SD1.5"
+    ],
+    "tags": [],
+    "prompt": "highly detailed, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract]"
+  },
+  "rubbrband/realcartoon3d_v16": {
+    "model_type": [],
+    "tags": [],
+    "prompt": "",
+    "negative_prompt": ""
+  },
+  "rubbrband/realcartoonRealistic_v14": {
+    "model_type": [],
+    "tags": [],
+    "prompt": "",
+    "negative_prompt": ""
+  },
+  "KBlueLeaf/Kohaku-XL-Epsilon-rev2": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "anime"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "Raelina/Rae-Diffusion-XL-V2": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "anime"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  },
+  "Raelina/Raemu-XL-V4": {
+    "model_type": [
+      "SDXL"
+    ],
+    "tags": [
+      "anime"
+    ],
+    "prompt": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], photo, deformed, disfigured, low contrast, photo, deformed, disfigured, low contrast"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "bad_prompt_version2.pt": [
+    "bad_prompt",
+    false
+  ],
+  "EasyNegativeV2.safetensors": [
+    "EasyNegative",
+    false
+  ],
+  "bad-hands-5.pt": [
+    "bad_hand",
+    false
+  ],
+  "negativeXL_A.safetensors": [
+    "negativeXL_A",
+    false
+  ],
+  "negativeXL_B.safetensors": [
+    "negativeXL_B",
+    false
+  ],
+  "negativeXL_C.safetensors": [
+    "negativeXL_C",
+    false
+  ],
+  "negativeXL_D.safetensors": [
+    "negativeXL_D",
+    false
+  ],
+  "unaestheticXL2v10.safetensors": [
+    "2v10",
+    false
+  ],
+  "unaestheticXL_AYv1.safetensors": [
+    "_AYv1",
+    false
+  ],
+  "unaestheticXL_Alb2.safetensors": [
+    "_Alb2",
+    false
+  ],
+  "unaestheticXL_Jug6.safetensors": [
+    "_Jug6",
+    false
+  ],
+  "unaestheticXL_bp5.safetensors": [
+    "_bp5",
+    false
+  ],
+  "unaestheticXL_hk1.safetensors": [
+    "_hk1",
+    false
+  ],
+  "unaestheticXLv1.safetensors": [
+    "v1.0",
+    false
+  ],
+  "unaestheticXLv13.safetensors": [
+    "v1.3",
+    false
+  ],
+  "unaestheticXLv31.safetensors": [
+    "v3.1",
+    false
+  ],
+  "unaestheticXL_Sky3.1.safetensors": [
+    "_Sky3.1",
+    false
+  ],
+  "SimplePositiveXLv2.safetensors": [
+    "SIMPLEPOSITIVEXLV2",
+    true
+  ]
+}
