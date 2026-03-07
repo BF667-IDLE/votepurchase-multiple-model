@@ -13,10 +13,6 @@ from dc import (infer, _infer, pass_result, get_diffusers_model_list, get_sample
     PROMPT_W_OPTIONS, POST_PROCESSING_SAMPLER, DIFFUSERS_CONTROLNET_MODEL, IP_MODELS, MODE_IP_OPTIONS,
     TASK_AND_PREPROCESSORS, update_task_options, change_preprocessor_choices, get_ti_choices,
     update_textual_inversion, set_textual_inversion_prompt, create_mask_now)
-# Translator
-from llmdolphin import (dolphin_respond_auto, dolphin_parse_simple,
-    get_llm_formats, get_dolphin_model_format, get_dolphin_models, get_dolphin_loras, select_dolphin_lora, add_dolphin_loras,
-    get_dolphin_model_info, select_dolphin_model, select_dolphin_format, get_dolphin_sysprompt)
 # Tagger
 from tagger.v2 import v2_upsampling_prompt, V2_ALL_MODELS
 from tagger.utils import (gradio_copy_text, gradio_copy_prompt, COPY_ACTION_JS,
@@ -25,6 +21,7 @@ from tagger.tagger import (predict_tags_wd, convert_danbooru_to_e621_prompt,
     remove_specific_prompt, insert_recom_prompt, compose_prompt_to_copy,
     translate_prompt, select_random_character)
 from tagger.fl2sd3longcap import predict_tags_fl2_sd3
+
 def description_ui():
     gr.Markdown(
         """
@@ -62,7 +59,6 @@ with gr.Blocks(fill_width=True, elem_id="container", css=css) as demo:
             
             with gr.Row():
                 run_button = gr.Button("Run", variant="primary", scale=5)
-                run_translate_button = gr.Button("Run with LLM Enhance", variant="secondary", scale=3)
                 auto_trans = gr.Checkbox(label="Auto translate to English", value=False, scale=2)
 
             result = gr.Image(label="Result", elem_id="result", format="png", type="filepath", show_label=False, interactive=False,
@@ -352,22 +348,6 @@ with gr.Blocks(fill_width=True, elem_id="container", css=css) as demo:
                             face_restoration_visibility = gr.Slider(minimum=0., maximum=1., step=0.001, value=1., label="Visibility")
                             face_restoration_weight = gr.Slider(minimum=0., maximum=1., step=0.001, value=.5, label="Weight", info="(0 = maximum effect, 1 = minimum effect)")
 
-                with gr.Tab("Translation Settings"):
-                    chatbot = gr.Chatbot(type="messages", render_markdown=False, visible=False) # component for auto-translation
-                    chat_model = gr.Dropdown(choices=get_dolphin_models(), value=get_dolphin_models()[0], allow_custom_value=True, label="Model")
-                    chat_model_info = gr.Markdown(value=get_dolphin_model_info(get_dolphin_models()[0]), label="Model info")
-                    chat_format = gr.Dropdown(choices=get_llm_formats(), value=get_dolphin_model_format(get_dolphin_models()[0]), label="Message format")
-                    with gr.Row():
-                        chat_tokens = gr.Slider(minimum=1, maximum=4096, value=512, step=1, label="Max tokens")
-                        chat_temperature = gr.Slider(minimum=0.1, maximum=4.0, value=0.7, step=0.1, label="Temperature")
-                        chat_topp = gr.Slider(minimum=0.1, maximum=1.0, value=0.95, step=0.05, label="Top-p")
-                        chat_topk = gr.Slider(minimum=0, maximum=100, value=40, step=1, label="Top-k")
-                        chat_rp = gr.Slider(minimum=0.0, maximum=2.0, value=1.1, step=0.1, label="Repetition penalty")
-                    chat_sysmsg = gr.Textbox(value=get_dolphin_sysprompt(), label="System message")
-                    with gr.Accordion("Loras", open=True, visible=False):
-                        chat_lora = gr.Dropdown(choices=get_dolphin_loras(), value=get_dolphin_loras()[0], allow_custom_value=True, label="Lora")
-                        chat_lora_scale = gr.Slider(minimum=0.0, maximum=1.0, value=1.0, step=0.01, label="Lora scale")
-
         examples = gr.Examples(
             examples = [
                 ["souryuu asuka langley, 1girl, neon genesis evangelion, plugsuit, pilot suit, red bodysuit, sitting, crossing legs, black eye patch, cat hat, throne, symmetrical, looking down, from bottom, looking at viewer, outdoors"],
@@ -420,73 +400,6 @@ with gr.Blocks(fill_width=True, elem_id="container", css=css) as demo:
         show_progress="full",
         show_api=True,
     )
-
-    gr.on( #lambda x: None, inputs=None, outputs=result).then(
-        triggers=[run_translate_button.click],
-        fn=_infer, # dummy fn for api
-        inputs=[prompt, negative_prompt, seed, randomize_seed, width, height,
-                guidance_scale, num_inference_steps, model_name,
-                lora1, lora1_wt, lora2, lora2_wt, lora3, lora3_wt, lora4, lora4_wt,
-                lora5, lora5_wt, lora6, lora6_wt, lora7, lora7_wt, task, prompt_syntax,
-                sampler, vae_model, schedule_type, schedule_prediction_type,
-                clip_skip, pag_scale, free_u, guidance_rescale,
-                image_control, image_mask, strength, image_resolution,
-                controlnet_model, control_net_output_scaling, control_net_start_threshold, control_net_stop_threshold,
-                preprocessor_name, preprocess_resolution, low_threshold, high_threshold,
-                value_threshold, distance_threshold, recolor_gamma_correction, tile_blur_sigma,
-                image_ip1, mask_ip1, model_ip1, mode_ip1, scale_ip1,
-                image_ip2, mask_ip2, model_ip2, mode_ip2, scale_ip2,
-                upscaler_model_path, upscaler_increases_size, upscaler_tile_size, upscaler_tile_overlap, hires_steps, hires_denoising_strength,
-                hires_sampler, hires_schedule_type, hires_guidance_scale, hires_prompt, hires_negative_prompt,
-                adetailer_inpaint_only, adetailer_verbose, adetailer_sampler, adetailer_active_a,
-                prompt_ad_a, negative_prompt_ad_a, strength_ad_a, face_detector_ad_a, person_detector_ad_a, hand_detector_ad_a,
-                mask_dilation_a, mask_blur_a, mask_padding_a, adetailer_active_b, prompt_ad_b, negative_prompt_ad_b, strength_ad_b,
-                face_detector_ad_b, person_detector_ad_b, hand_detector_ad_b, mask_dilation_b, mask_blur_b, mask_padding_b,
-                active_textual_inversion, face_restoration_model, face_restoration_visibility, face_restoration_weight, gpu_duration, auto_trans, recom_prompt],
-        outputs=[result],
-        queue=False,
-        show_api=True,
-        api_name="infer_translate",
-    ).success(
-        fn=dolphin_respond_auto,
-        inputs=[prompt, chatbot, chat_model, chat_sysmsg, chat_tokens, chat_temperature, chat_topp, chat_topk, chat_rp, chat_lora, chat_lora_scale, state],
-        outputs=[chatbot, result, prompt],
-        queue=True,
-        show_progress="full",
-        show_api=False,
-    ).success(
-        fn=dolphin_parse_simple,
-        inputs=[prompt, chatbot, state],
-        outputs=[prompt],
-        queue=False,
-        show_api=False,
-    ).success(
-        fn=infer,
-        inputs=[prompt, negative_prompt, seed, randomize_seed, width, height,
-                guidance_scale, num_inference_steps, model_name,
-                lora1, lora1_wt, lora2, lora2_wt, lora3, lora3_wt, lora4, lora4_wt,
-                lora5, lora5_wt, lora6, lora6_wt, lora7, lora7_wt, task, prompt_syntax,
-                sampler, vae_model, schedule_type, schedule_prediction_type,
-                clip_skip, pag_scale, free_u, guidance_rescale,
-                image_control, image_mask, strength, image_resolution,
-                controlnet_model, control_net_output_scaling, control_net_start_threshold, control_net_stop_threshold,
-                preprocessor_name, preprocess_resolution, low_threshold, high_threshold,
-                value_threshold, distance_threshold, recolor_gamma_correction, tile_blur_sigma,
-                image_ip1, mask_ip1, model_ip1, mode_ip1, scale_ip1,
-                image_ip2, mask_ip2, model_ip2, mode_ip2, scale_ip2,
-                upscaler_model_path, upscaler_increases_size, upscaler_tile_size, upscaler_tile_overlap, hires_steps, hires_denoising_strength,
-                hires_sampler, hires_schedule_type, hires_guidance_scale, hires_prompt, hires_negative_prompt,
-                adetailer_inpaint_only, adetailer_verbose, adetailer_sampler, adetailer_active_a,
-                prompt_ad_a, negative_prompt_ad_a, strength_ad_a, face_detector_ad_a, person_detector_ad_a, hand_detector_ad_a,
-                mask_dilation_a, mask_blur_a, mask_padding_a, adetailer_active_b, prompt_ad_b, negative_prompt_ad_b, strength_ad_b,
-                face_detector_ad_b, person_detector_ad_b, hand_detector_ad_b, mask_dilation_b, mask_blur_b, mask_padding_b,
-                active_textual_inversion, face_restoration_model, face_restoration_visibility, face_restoration_weight, gpu_duration, auto_trans, recom_prompt],
-        outputs=[result],
-        queue=True,
-        show_progress="full",
-        show_api=False,
-    ).success(lambda: None, None, chatbot, queue=False, show_api=False)\
-    .success(pass_result, [result], [result], queue=False, show_api=False) # dummy fn for api
 
     result.change(save_image_history, [result, history_gallery, history_files, model_name], [history_gallery, history_files], queue=False, show_api=False)
 
@@ -546,13 +459,6 @@ with gr.Blocks(fill_width=True, elem_id="container", css=css) as demo:
 
     model_detail.change(enable_diffusers_model_detail, [model_detail, model_name, state], [model_detail, model_name, state], queue=False, show_api=False)
     model_name.change(get_t2i_model_info, [model_name], [model_info], queue=False, show_api=False)
-
-    chat_model.change(select_dolphin_model, [chat_model, state], [chat_model, chat_format, chat_model_info, state], queue=True, show_progress="full", show_api=False)\
-    .success(lambda: None, None, chatbot, queue=False, show_api=False)
-    chat_format.change(select_dolphin_format, [chat_format, state], [chat_format, state], queue=False, show_api=False)\
-    .success(lambda: None, None, chatbot, queue=False, show_api=False)
-    chat_lora.change(select_dolphin_lora, [chat_lora, state], [chat_lora, state], queue=True, show_progress="full")\
-    .success(lambda: None, None, chatbot, queue=False, show_api=False)
 
     # Tagger
     with gr.Tab("Tags Transformer with Tagger"):
@@ -682,8 +588,7 @@ with gr.Blocks(fill_width=True, elem_id="container", css=css) as demo:
         preprocessor_tab()
 
     gr.LoginButton()
-    gr.DuplicateButton(value="Duplicate Space for private use (This demo does not work on CPU. Requires GPU Space)")
-
+    
 if __name__ == "__main__":
     demo.queue()
-    demo.launch(show_error=True, share=False, debug=True, ssr_mode=False, mcp_server=False)
+    demo.launch(show_error=True, share=True, debug=False, ssr_mode=False, mcp_server=False)
