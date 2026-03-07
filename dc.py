@@ -868,12 +868,49 @@ def infer(prompt, negative_prompt, seed, randomize_seed, width, height, guidance
           gpu_duration=59, translate=False, recom_prompt=True, progress=gr.Progress(track_tqdm=True)):
     MAX_SEED = np.iinfo(np.int32).max
 
-    image_mask = image_control_dict['layers'][0] if isinstance(image_control_dict, dict) and not image_mask else image_mask
-    image_control = image_control_dict['background'] if isinstance(image_control_dict, dict) else None
-    mask_ip1 = image_ip1_dict['layers'][0] if isinstance(image_ip1_dict, dict) and not mask_ip1 else mask_ip1
-    image_ip1 = image_ip1_dict['background'] if isinstance(image_ip1_dict, dict) else None
-    mask_ip2 = image_ip2_dict['layers'][0] if isinstance(image_ip2_dict, dict) and not mask_ip1 else mask_ip1
-    image_ip2 = image_ip2_dict['background'] if isinstance(image_ip2_dict, dict) else None
+    # FIX: Safely handle image_control_dict and image_ip1_dict/image_ip2_dict
+    image_mask = None
+    image_control = None
+    mask_ip1 = None
+    image_ip1 = None
+    mask_ip2 = None
+    image_ip2 = None
+    
+    # Handle image_control_dict (main control image)
+    if isinstance(image_control_dict, dict):
+        # Get background (main image)
+        image_control = image_control_dict.get('background')
+        # Safely get layers (mask) - check if it exists and is non-empty
+        layers = image_control_dict.get('layers', [])
+        if layers and len(layers) > 0:
+            image_mask = layers[0] if not image_mask else image_mask
+    
+    # Override with explicit image_mask if provided
+    if image_mask is None:
+        image_mask = image_mask  # Keep as is
+    
+    # Handle image_ip1_dict (first IP adapter)
+    if isinstance(image_ip1_dict, dict):
+        image_ip1 = image_ip1_dict.get('background')
+        layers_ip1 = image_ip1_dict.get('layers', [])
+        if layers_ip1 and len(layers_ip1) > 0:
+            mask_ip1 = layers_ip1[0] if not mask_ip1 else mask_ip1
+    
+    # Override with explicit mask_ip1 if provided
+    if mask_ip1 is None:
+        mask_ip1 = mask_ip1  # Keep as is
+    
+    # Handle image_ip2_dict (second IP adapter)
+    if isinstance(image_ip2_dict, dict):
+        image_ip2 = image_ip2_dict.get('background')
+        layers_ip2 = image_ip2_dict.get('layers', [])
+        if layers_ip2 and len(layers_ip2) > 0:
+            mask_ip2 = layers_ip2[0] if not mask_ip2 else mask_ip2
+    
+    # Override with explicit mask_ip2 if provided
+    if mask_ip2 is None:
+        mask_ip2 = mask_ip2  # Keep as is
+    
     style_prompt = None
     style_json = None
     hires_before_adetailer = False
@@ -901,8 +938,10 @@ def infer(prompt, negative_prompt, seed, randomize_seed, width, height, guidance
     images: list[tuple[PIL.Image.Image, str | None]] = []
     progress(0, desc="Preparing...")
 
-    if randomize_seed: seed = random.randint(0, MAX_SEED)
-    if seed > MAX_SEED: seed = MAX_SEED
+    if randomize_seed: 
+        seed = random.randint(0, MAX_SEED)
+    if seed > MAX_SEED: 
+        seed = MAX_SEED
     generator = torch.Generator().manual_seed(seed).seed()
 
     if translate:
