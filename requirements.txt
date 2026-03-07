@@ -1,3 +1,4 @@
+pip>=23.0.0
 stablepy==0.6.5
 diffusers
 transformers
@@ -10,8 +11,6 @@ huggingface_hub
 hf_xet
 hf_transfer
 scikit-build-core
-https://github.com/abetlen/llama-cpp-python/releases/download/v0.3.16-cu124/llama_cpp_python-0.3.16-cp310-cp310-linux_x86_64.whl
-git+https://github.com/John6666cat/llama-cpp-agent
 pybind11>=2.12
 rapidfuzz
 torchvision
