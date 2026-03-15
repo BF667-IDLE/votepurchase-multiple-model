@@ -7,7 +7,6 @@ torch==2.5.1
 numpy<2
 gdown
 opencv-python
-huggingface_hub
 hf_xet
 hf_transfer
 scikit-build-core
@@ -15,7 +14,6 @@ pybind11>=2.12
 rapidfuzz
 torchvision
 optimum[onnxruntime]
-#dartrs
 git+https://github.com/John6666cat/dartrs
 translatepy
 timm
@@ -24,4 +22,8 @@ sentencepiece
 unidecode
 matplotlib-inline
 https://github.com/mjun0812/flash-attention-prebuild-wheels/releases/download/v0.4.11/flash_attn-2.8.3+cu124torch2.5-cp310-cp310-linux_x86_64.whl
-pydantic==2.10.6
+pydantic==2.8.2
+pydantic_core==2.20.1
+gradio==4.44.1
+gradio_client==1.0.1
+huggingface-hub==0.24.6
